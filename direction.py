@@ -1,6 +1,11 @@
 #
 ## Threadbare - The Text Adventure
 #
+def main():
+    ## main method
+
+    if __name__ == "__main__":
+        main()
 
 def get_direction():
     ## Function for getting direction
