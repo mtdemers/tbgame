@@ -1,6 +1,13 @@
 #
 ## Threadbare Game - Inventory
 #
+
+def main():
+    #main method
+
+    if __name__ == "__main__":
+        main()
+        
 inventory = []
 
 def check():
